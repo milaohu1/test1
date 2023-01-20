@@ -1,0 +1,72 @@
+.footer .footer-top{
+    padding: 27px 0;
+    height: 75px;
+    border-bottom: #e0e0e0 1px solid;
+}
+.footer .footer-top a{
+    line-height: 20px;
+    width: 20%;
+    color: #616161;
+    text-align: center;
+    height: 20px;
+    font-size: 16px;
+    border-right: #e0e0e0 1px solid;
+}
+.footer .footer-top a:last-child{
+    border-right: 0;
+}
+.footer .footer-top a i{
+    vertical-align: -5px;
+    font-size: 26px;
+}
+.footer .footer-bottom{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.footer .footer-bottom .footer-links{
+    width: 160px;
+    padding: 40px 0;
+}
+.footer .footer-bottom .footer-links h3{
+    font-size: 14px;
+    color: #424242;
+}
+.footer .footer-bottom .footer-links a{
+    display: block;
+    color: #757575;
+    margin-top: 15px;
+}
+.footer .footer-bottom .footer-contect{
+    border-left: 1px solid #e0e0e0;
+    margin-top: 40px;
+    text-align: center;
+    width: 245px;
+}
+.footer .footer-bottom .footer-contect .number{
+    font-size: 22px;
+    color: #ff6700;
+}
+.footer .footer-bottom .footer-contect .time{
+    color: #757575;
+}
+.footer .footer-bottom .footer-contect a{
+    display: block;
+    margin: 0 auto;
+    margin-top: 10px;
+    width: 118px;
+    border: 1px solid #ff6700;
+    color: #ff6700;
+}
+.footer .footer-bottom .footer-contect .guanzhu{
+    display: block;
+    margin-top: 10px;
+    color: #757575;
+}
+.footer .footer-bottom .footer-contect .guanzhu i{
+    font-size: 22px;
+    vertical-align: middle;
+    cursor: pointer;
+}
+.footer .footer-bottom .footer-contect .guanzhu i:hover{
+    color: #ff6700;
+}
